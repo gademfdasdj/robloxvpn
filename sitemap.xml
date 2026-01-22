@@ -2,14 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <!-- Заменить example.com на ваш GitHub Pages адрес: https://USERNAME.github.io/REPO -->
   <url>
-    <loc>https://USERNAME.github.io/REPO/</loc>
+    <loc>https://gademfdasdj.github.io/robloxvpn/</loc>
     <lastmod>2026-01-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <!-- Пример ссылок на посты/канал в Telegram: указывайте ссылку на вашу страницу, где есть ссылка на t.me пост -->
   <url>
-    <loc>https://USERNAME.github.io/REPO/#cheklist-roblox-vpn</loc>
+    <loc>https://gademfdasdj.github.io/robloxvpn/#cheklist-roblox-vpn</loc>
     <lastmod>2026-01-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
